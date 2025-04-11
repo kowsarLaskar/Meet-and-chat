@@ -1,16 +1,39 @@
-# zoom_clone
+# Meet&Chat
 
-A new Flutter project.
+Meet&Chat is a feature-rich Flutter-based video conferencing application that allows users to initiate and join video meetings with built-in chat functionality. It leverages [Jitsi Meet SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-flutter-sdk) for seamless real-time communication and integrates Firebase services for user management and meeting data storage.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔐 **Firebase Authentication** – Sign in users securely using Firebase Auth.
+- 🎥 **Video Conferencing** – Start and join meetings via Jitsi Meet integration.
+- 💬 **In-meeting Chat** – Send and receive real-time chat messages during calls.
+- 📁 **Meeting History** – All meetings are stored using Firestore for future reference.
+- ⚙️ **State Management** – Built using Provider to manage app state efficiently.
+- 📱 **Responsive UI** – Optimized for different screen sizes with smooth navigation.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter & Dart**
+- **Jitsi Meet Flutter SDK**
+- **Firebase Authentication**
+- **Cloud Firestore**
+- **Provider**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Screenshots
+
+*Coming soon – add your app screenshots here*
+
+## 🔧 Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Firebase project setup
+- Android/iOS device or emulator
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/meet-and-chat.git
+   cd meet-and-chat
