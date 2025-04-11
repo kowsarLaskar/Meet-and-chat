@@ -21,7 +21,7 @@ Meet&Chat is a feature-rich Flutter-based video conferencing application that al
 
 ## 📷 Screenshots
 
-*Coming soon – add your app screenshots here*
+*Coming soon*
 
 ## 🔧 Getting Started
 
